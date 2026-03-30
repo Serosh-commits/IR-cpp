@@ -1,0 +1,9 @@
+build/
+.cache/
+*.o
+*.a
+lexicon_cli
+test_boolean
+test_tolerant
+.vscode/
+.DS_Store
